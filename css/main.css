@@ -46,13 +46,14 @@ ul.posts li {
 }
 
 
-ul { 
+.blurb ul { 
     font-family: sans-serif;
     margin: 20px auto 40px;
     font-size: 1.1em;
+    padding-left:0;
 }
 
-ul li {
+.blurb ul li {
     list-style: none;
     margin-top: .5rem;
     padding-top: .5rem;
