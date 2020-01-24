@@ -41,3 +41,18 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+ul { 
+    font-family: sans-serif;
+    margin: 20px auto 40px;
+    font-size: 1.1em;
+}
+
+ul li {
+    list-style: none;
+    margin-top: .5rem;
+    padding-top: .5rem;
+    border-top: 1px solid #b7bfb7;
+    font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2", Georgia, Times, serif;
+}
