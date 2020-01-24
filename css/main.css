@@ -23,6 +23,9 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h2 {
+    margin-top: 2em;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -53,6 +56,6 @@ ul li {
     list-style: none;
     margin-top: .5rem;
     padding-top: .5rem;
-    border-top: 1px solid #b7bfb7;
+    border-top: 1px solid #f3f3f3;
     font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2", Georgia, Times, serif;
 }
